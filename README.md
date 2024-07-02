@@ -51,7 +51,7 @@ This is the backend for the movie app project, which uses MongoDB for data stora
 
 ```json
 {
-  "email": "testing03@gmail.com",
+  "username": "testing03@gmail.com",
   "password": "testing03"
 }
 ```
@@ -74,7 +74,7 @@ This is the backend for the movie app project, which uses MongoDB for data stora
 
 ```json
 {
-  "email": "testing03@gmail.com",
+  "username": "testing03@gmail.com",
   "password": "testing03"
 }
 ```
